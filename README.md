@@ -7,8 +7,8 @@ CryptoCurrencyTradingBot
 
 -Gordon Gekko
 
-Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on [Node.js](http://nodejs.org).
+Gekko is a CryptoCurrency trading bot application that connects to popular Bitcoin exchanges and automatically make profit ("money never sleep!"). It is written in JavaScript and runs on [Node.js](http://nodejs.org).
 
-*Use Gekko at your own risk.*
+*Use cctbot at your own risk.*
 
 cctbot is [Gekko](https://github.com/askmike/gekko) powered BOT application.
