@@ -11,7 +11,9 @@ Gekko is a CryptoCurrency trading bot application that connects to popular Bitco
 
 *Use cctbot at your own risk.*
 
-cctbot is [Gekko](https://github.com/askmike/gekko) powered BOT application.
+cctbot is yet another top#10 BOT application.
+
+
 
 # References
 
