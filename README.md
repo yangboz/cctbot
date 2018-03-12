@@ -7,7 +7,13 @@ CryptoCurrencyTradingBot
 
 -Gordon Gekko
 
-Gekko is a CryptoCurrency trading bot application that connects to popular Bitcoin exchanges and automatically make profit ("money never sleep!"). It is written in JavaScript and runs on [Node.js](http://nodejs.org).
+"
+Blockchain is an emerging technology that can radically improve banking, supply chain, and other transaction networks and can create new opportunities for innovation. Businesses contain many examples of networks of individuals and organizations that collaborate to create value and wealth. These networks work together in markets that exchange assets in the form of goods and services between the participants.
+
+Blockchain technology provides the basis for a dynamic shared ledger that can be applied to save time when recording transactions between parties, remove costs associated with intermediaries, and reduce risks of fraud and tampering.
+"
+
+CCTBOT is a CryptoCurrency trading bot application that connects to popular Bitcoin exchanges and automatically make profit ("money never sleep!"). It is written in JavaScript and runs on [Node.js](http://nodejs.org).
 
 *Use cctbot at your own risk.*
 
