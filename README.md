@@ -13,11 +13,13 @@ Blockchain is an emerging technology that can radically improve banking, supply 
 Blockchain technology provides the basis for a dynamic shared ledger that can be applied to save time when recording transactions between parties, remove costs associated with intermediaries, and reduce risks of fraud and tampering.
 "
 
-CCTBOT is a CryptoCurrency trading bot application that connects to popular Bitcoin exchanges and automatically make profit ("money never sleep!"). It is written in JavaScript and runs on [Node.js](http://nodejs.org).
+CCTBOT is a CryptoCurrency trading bot application that connects to popular Bitcoin exchanges and automatically make profit ("money never sleep!"). It is written in Java SpringBoot as MicroServices and Dockerized.
 
 *Use cctbot at your own risk.*
 
-Maybe CCTBOT is yet another top#10 BOT application.
+## Vision
+
+CCTBOT going out for top#10 BOT applications.
 
 ![top5bots](https://raw.githubusercontent.com/yangboz/cctbot/master/top5bots.jpg)
 
