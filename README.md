@@ -29,5 +29,15 @@ https://github.com/michaelgrosner/tribeca
 
 https://github.com/butor/blackbird
 
+## BX-bot
+
+https://github.com/gazbert/bxbot
+
+## BX-bot UI
+
+https://github.com/gazbert/bxbot-ui
+
+## BitShare UI
+
 https://github.com/bitshares/
 
