@@ -27,6 +27,8 @@ CCTBOT going out for top#10 BOT applications.
 
 https://github.com/askmike/gekko 
 
+https://gekko.wizb.it/docs/introduction/about_gekko.html
+
 https://github.com/michaelgrosner/tribeca
 
 https://github.com/butor/blackbird
