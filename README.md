@@ -54,3 +54,5 @@ https://github.com/H256/gekko-quasar-ui
 
 https://github.com/knowm/XChange
 
+
+https://freestartupkits.com/articles/technology/cryptocurrency-news-and-tips/how-to-build-your-own-cryptocurrency-exchange/
